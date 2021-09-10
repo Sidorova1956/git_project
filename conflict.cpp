@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main() {
-    count << "branch master" << endl;
+    count << "My new rating" << endl;
     }
